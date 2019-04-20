@@ -1,5 +1,6 @@
 # RegFlow
-Ease the flow of regulatory data.
+RegFlow is an open initiative to ease digital regulatory filings by
+use of open standards and technology.
 
 ## Architecture
 
